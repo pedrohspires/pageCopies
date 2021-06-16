@@ -1,2 +1,6 @@
-# Page Copies
-## This repository was created for my page copy projects. <br/>None of these projects aims to damage the image of renowned websites. Any problems with the projects listed here, please contact me by email.<br/>Email: pedropires2603@gmail.com
+# Copias de sites
+
+Esse repositório é dedicado a armazenar cópias de sites, em nenhum caso será feita a publicação de um site que fira direitos intelectuais de nenhuma das
+empresas que tiveram seus sites copiados aqui.
+
+# TODOS OS SITES AQUI FORAM COPIADOS APENAS PARA FINS DE CONHECIMENTO E TREINAMENTO
